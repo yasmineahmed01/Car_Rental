@@ -1,0 +1,8 @@
+car model    license plate        no owner          renter
+  hyundai            32422         mohamed           ahmed
+   toyota            43532          nadine      not rented
+    honda            43223          mariam            omar
+      BMW            67347          hossam      not rented
+chevrolet            62578          kareem      not rented
+ mercedes            83575           ghada          kholod
+  ferrari            45321            engy      not rented 

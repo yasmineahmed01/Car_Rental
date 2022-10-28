@@ -1,0 +1,9 @@
+national id        name      age    gender    license
+      23224     mohamed       43      male      23143
+      34222        toka       23    female      32411
+      34555       rania       32    female      34223
+      65432     mostafa       20      male      43432
+      34213        noha       45    female      23111
+      43213      kholod       33    female      34245
+      22346        omar       49      male       3211 
+      43232       ahmed       27      male      23543

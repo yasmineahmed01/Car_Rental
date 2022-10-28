@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1642181923 source:c:\users\clinic\desktop\project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<array>
+	<iomanip>
+	<ios>
+	<cstdio>
+
+1642181923 source:c:\users\clinic\desktop\c++-project\project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<array>
+	<iomanip>
+	<ios>
+	<cstdio>
+
